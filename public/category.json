@@ -1,0 +1,149 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/GRNL9qC/Education.png",
+      "title": "Good education",
+      "titleColor": "#0052FF",
+      "categoryButtonBgColor": "#0052FF33",
+      "categoryType": "Education",
+      "categoryTypeColor":"#0052FF",
+      "categoryTypeBgColor": "#0052FF33",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/BLrh595/Health.png",
+      "title": "Clean water for children",
+      "titleColor": "#FF444A",
+      "categoryButtonBgColor": "#FA979A",
+      "categoryType": "Health",
+      "categoryTypeColor":"#FF444A",
+      "categoryTypeBgColor": "#FDE1E2",
+      "description": "Provide medical assistance to those without access.They base this definition on the idea that the past few decades have seen modern science take significant strides in the awareness of diseases by understanding how they work, discovering new ways to slow or stop them, and acknowledging that an absence of pathology may not be possible.",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/2dHgkr0/Food.png",
+      "title": "Better Food for Everyone",
+      "titleColor": "#79C23F",
+      "categoryButtonBgColor": "#C4F0A2",
+      "categoryType": "Food",
+      "categoryTypeColor":"#79C23F",
+      "categoryTypeBgColor": "#E5FFD0",
+      "description": "Provide food to those facing hunger.Healthy food refers to food that contains the right amount of nutrients to keep our body fit. We need healthy food to keep ourselves fit.healthy food is also very delicious as opposed to popular thinking.",
+      "price": 400
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/SsSbMN5/Clothing.png",
+      "title": "Used Clothing Drive",
+      "titleColor": "#C6BC24",
+      "categoryButtonBgColor": "#F5EF8F",
+      "categoryType": "Clothing",
+      "categoryTypeColor":"#C6BC24",
+      "categoryTypeBgColor": "#FFFDD8",
+      "description": "Here at Clothing Collective it’s out mission to provide clothing to those in need.   That’s why we have teamed up with ReDonate.  The brilliant team at ReDonate will collect your pre loved clothing and textiles from your home, they sort and process the clothing on our behalf and then donate the proceeds to us!  ",
+      "price": 250
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/GRNL9qC/Education.png",
+      "title": "Good education",
+      "titleColor": "#0052FF",
+      "categoryButtonBgColor": "#0052FF33",
+      "categoryType": "Education",
+      "categoryTypeColor":"#0052FF",
+      "categoryTypeBgColor": "#0052FF33",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 600
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/2dHgkr0/Food.png",
+      "title": "Better Food for Everyone",
+      "titleColor": "#79C23F",
+      "categoryButtonBgColor": "#C4F0A2",
+      "categoryType": "Food",
+      "categoryTypeColor":"#79C23F",
+      "categoryTypeBgColor": "#E5FFD0",
+      "description": "Provide food to those facing hunger.Healthy food refers to food that contains the right amount of nutrients to keep our body fit. We need healthy food to keep ourselves fit.healthy food is also very delicious as opposed to popular thinking.",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/BLrh595/Health.png",
+      "title": "Clean water for children",
+      "titleColor": "#FF444A",
+      "categoryButtonBgColor": "#FA979A",
+      "categoryType": "Health",
+      "categoryTypeColor":"#FF444A",
+      "categoryTypeBgColor": "#FDE1E2",
+      "description": "Provide medical assistance to those without access.They base this definition on the idea that the past few decades have seen modern science take significant strides in the awareness of diseases by understanding how they work, discovering new ways to slow or stop them, and acknowledging that an absence of pathology may not be possible.",
+      "price": 550
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/SsSbMN5/Clothing.png",
+        "title": "Used Clothsing Drive",
+        "titleColor": "#C6BC24",
+        "categoryButtonBgColor": "#F5EF8F",
+        "categoryType": "Clothing",
+        "categoryTypeColor":"#C6BC24",
+        "categoryTypeBgColor": "#FFFDD8",
+        "description": "Here at Clothing Collective it’s out mission to provide clothing to those in need.   That’s why we have teamed up with ReDonate.  The brilliant team at ReDonate will collect your pre loved clothing and textiles from your home, they sort and process the clothing on our behalf and then donate the proceeds to us!  ",
+        "price": 450
+      },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/BLrh595/Health.png",
+      "title": "Clean water for children",
+      "titleColor": "#FF444A",
+      "categoryButtonBgColor": "#FA979A",
+      "categoryType": "Health",
+      "categoryTypeColor":"#FF444A",
+      "categoryTypeBgColor": "#FDE1E2",
+      "description": "Provide medical assistance to those without access.They base this definition on the idea that the past few decades have seen modern science take significant strides in the awareness of diseases by understanding how they work, discovering new ways to slow or stop them, and acknowledging that an absence of pathology may not be possible.",
+      "price": 500
+    },
+   
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/2dHgkr0/Food.png",
+      "title": "Better Food for Everyone",
+      "titleColor": "#79C23F",
+      "categoryButtonBgColor": "#C4F0A2",
+      "categoryType": "Food",
+      "categoryTypeColor":"#79C23F",
+      "categoryTypeBgColor": "#E5FFD0",
+      "description": "Provide food to those facing hunger.Healthy food refers to food that contains the right amount of nutrients to keep our body fit. We need healthy food to keep ourselves fit.healthy food is also very delicious as opposed to popular thinking.",
+      "price": 400
+    },
+    
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/GRNL9qC/Education.png",
+      "title": "Good education",
+      "titleColor": "#0052FF",
+      "categoryButtonBgColor": "#0052FF33",
+      "categoryType": "Education",
+      "categoryTypeColor":"#0052FF",
+      "categoryTypeBgColor": "#0052FF33",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": 300
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co/SsSbMN5/Clothing.png",
+        "title": "Used Clothsing Drive",
+        "titleColor": "#C6BC24",
+      "categoryButtonBgColor": "#F5EF8F",
+      "categoryType": "Clothing",
+      "categoryTypeColor":"#C6BC24",
+      "categoryTypeBgColor": "#FFFDD8",
+        "description": "Here at Clothing Collective it’s out mission to provide clothing to those in need.   That’s why we have teamed up with ReDonate.  The brilliant team at ReDonate will collect your pre loved clothing and textiles from your home, they sort and process the clothing on our behalf and then donate the proceeds to us!  ",
+        "price": 650
+      }
+  ]
+  

@@ -1,0 +1,13 @@
+#banner {
+    background-image: url("https://i.ibb.co/PCGSGh9/Rectangle-4281.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 25px;
+      
+    
+}
+.banner-overlay {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
